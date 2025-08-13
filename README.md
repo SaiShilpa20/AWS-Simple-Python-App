@@ -1,4 +1,3 @@
-# AWS-Simple-Python-App
 # AWS Continuous Integration Demo
 
 ## Set Up GitHub Repository
